@@ -1,6 +1,6 @@
-package com.gfg.medium.util;
+package com.gfg.util;
 
-import model.Node;
+import com.gfg.model.Node;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,4 +1,4 @@
-package model;
+package com.gfg.model;
 
 public class Node {
     public int data;

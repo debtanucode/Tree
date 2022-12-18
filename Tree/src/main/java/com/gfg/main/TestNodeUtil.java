@@ -1,7 +1,7 @@
 package com.gfg.main;
 
-import com.gfg.medium.util.NodeUtil;
-import model.Node;
+import com.gfg.util.NodeUtil;
+import com.gfg.model.Node;
 
 public class TestNodeUtil {
     public static void main(String[] args) {
